@@ -195,8 +195,8 @@ Inbox Sentinel intelligently organizes incoming emails by combining a rules-base
 
 ## Related Projects
 
-- [Invoice Flow](https://github.com/aleavenger/invoice-flow) — AI invoice automation SaaS
-- [PaperclipAI](https://github.com/aleavenger/paperclipai) — AI orchestration platform managing development agents
+- [Invoice Flow](https://github.com/aleavenger/invoice-flow-overview) — AI invoice automation SaaS
+- [PaperclipAI](https://github.com/aleavenger/paperclipai-overview) — AI orchestration platform managing development agents
 
 ---
 
